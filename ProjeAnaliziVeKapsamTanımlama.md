@@ -57,6 +57,7 @@ Web Çerçevesi: Flask
 Sürüm Kontrolü ve İş Birliği: GitHub (Scrum Master tarafından oluşturulan merkezi depo üzerinden yürütülecektir.)
 
 5. Teslim Edilecekler (Deliverables)
+   
 ✅ Sensör veri toplama ve işleme modülü
 
 ✅ Yapay zeka tabanlı karar destek sistemi
