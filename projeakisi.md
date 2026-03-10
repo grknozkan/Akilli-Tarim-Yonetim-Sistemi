@@ -16,3 +16,14 @@
 * 📊 Seçilen teknolojilerin avantaj ve dezavantajlarını belirten bir rapor hazırlandı.
 
 ---
+
+## 📅 1. Hafta
+**👤 Ümitcan ÇİNAR:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Fonksiyonel ve Fonksiyonel olmayan gereksinimler araştırıldı.
+* 📄 Araştırmalar raporlandı.
+* 📊 Rapor github'a push edildi
+
+---
