@@ -24,6 +24,16 @@
 
 * 🔬 Fonksiyonel ve Fonksiyonel olmayan gereksinimler araştırıldı.
 * 📄 Araştırmalar raporlandı.
-* 📊 Rapor github'a push edildi
+* 📊 Rapor github'a push edildi.
 
 ---
+
+## 📅 1. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Proje Analizi ve Kapsam Tanımlama yapıldı.
+* 📈 Projenin temel hedefleri, kapsamı ve paydaşları belirlendi.
+* 📄 Detaylı bir proje analiz dokümanı hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
