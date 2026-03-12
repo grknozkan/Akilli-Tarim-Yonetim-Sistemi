@@ -37,3 +37,15 @@
 * 📈 Projenin temel hedefleri, kapsamı ve paydaşları belirlendi.
 * 📄 Detaylı bir proje analiz dokümanı hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
+
+---
+
+## 📅 1. Hafta
+**👤 Mehmet Kerem KÜÇÜK:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Ide kurulumu tamamlandı.
+* 📈 Kod için gerekli ortam sağlandı.
+* 📊 Rapor Gıthub'a push edildi.
+
