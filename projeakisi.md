@@ -51,7 +51,7 @@
 
   ---
 
-##📅 1.Hafta
+## 📅 1. Hafta
 **👤 Avşin Pelin BİLGİÇ:** Developer 👑
 
 ### ✅ Tamamlanan Görevler
