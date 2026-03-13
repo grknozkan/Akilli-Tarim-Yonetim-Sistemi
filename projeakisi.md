@@ -49,3 +49,14 @@
 * 📈 Kod için gerekli ortam sağlandı.
 * 📊 Rapor Gıthub'a push edildi.
 
+  ---
+
+##📅 1.Hafta
+**👤 Avşin Pelin BİLGİÇ:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔎 Proje yönetimi ve ekip içi iletişimi için kullanılabilecek araçlar araştırıldı.
+* ⚙️ Seçilen araçların temel kurulumları yapıldı.
+* 📢 Ekip üyelerine araçların kullanımı hakkında bilgilendirme yapıldı.
+---
