@@ -59,4 +59,16 @@
 * 🔎 Proje yönetimi ve ekip içi iletişimi için kullanılabilecek araçlar araştırıldı.
 * ⚙️ Seçilen araçların temel kurulumları yapıldı.
 * 📢 Ekip üyelerine araçların kullanımı hakkında bilgilendirme yapıldı.
+
+---
+
+## 📅 2. Hafta
+**👤 Ümitcan ÇİNAR:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Detaylı Kullanıcı Hikayeleri ve Kabul Kriterleri Oluşturma konusu analiz edildi. Gereksinim Toplama ve Belgeleme" görevi kapsamında toplanan gereksinimler doğrultusunda, her bir özellik için detaylı kullanıcı hikayeleri ve kabul kriterleri oluşturuldu.Ayrıca, her bir kullanıcı hikayesi için önceliklendirme yapılarak, geliştirme sırası belirlendi.
+* 📄 Araştırmalar raporlandı. 
+* 📊 Rapor github'a push edildi.
+
 ---
