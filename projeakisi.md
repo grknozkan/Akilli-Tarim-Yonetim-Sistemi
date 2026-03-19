@@ -72,3 +72,15 @@
 * 📊 Rapor github'a push edildi.
 
 ---
+
+## 📅 2. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Proje Analizi ve Kapsam Tanımlama görevinde belirlenen kapsam doğrultusunda, sistemin mevcut durumunun ve hedeflenen durumunun detaylı analizini yapıldı.
+* 📈  Veri kaynaklarını, veri akışını ve sistem bileşenleri arasındaki etkileşimi gösteren bir veri akış şeması oluşturuldu. Bu şema, geliştirme ekibi için net bir yol haritası sağlayacak ve olası darboğazları veya eksiklikleri önceden tespit etmeye yardımcı olacaktır.
+* 📄 Detaylı Sistem Analizi ve Veri Akış Şeması dokümanı hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
+
+---  
