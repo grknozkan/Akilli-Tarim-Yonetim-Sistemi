@@ -84,3 +84,14 @@
 * 📊 Rapor Gıthub'a push edildi.
 
 ---  
+
+## 📅 3. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Projenin gereksinimlerine uygun veritabanı şemasını oluşturuldu.
+* 📈 DOkümantasyonu hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
+
+---
