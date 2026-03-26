@@ -97,7 +97,7 @@
 ---  
 
 ## 📅 2. Hafta
-** 👤 Avşin Pelin BİLGİÇ: Developer 👑
+**👤 Avşin Pelin BİLGİÇ: Developer 👑
 
 ### ✅ Tamamlanan Görevler
 * 📈 Sensör verilerinden başlayarak yapay zekâ analizine ve kullanıcı arayüzlerine kadar uzanan süreçleri kapsayan user journey (kullanıcı deneyim akışı) oluşturuldu.
