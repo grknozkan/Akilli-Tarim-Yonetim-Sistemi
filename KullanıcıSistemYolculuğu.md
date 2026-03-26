@@ -1,10 +1,15 @@
 TERRA NOVA: UÇTAN UCA KULLANICI YOLCULUĞU RAPORU
+
 Hazırlayan: Avşin Pelin Bilgiç
+
 Proje: Akıllı Tarım Yönetim Sistemi (ATYS)
+
 👤 Persona (Kullanıcı Profili)
 Sistemimizin ana kullanıcısı; orta veya büyük ölçekli tarım arazisine sahip, üretim verimliliğini artırmak ve maliyetleri azaltmak isteyen çiftçi veya tarım işletmesi yöneticisidir.
 ________________________________________
+
 🌱 1. Başlangıç – Sisteme Katılım (Onboarding)
+
 Kullanıcı, ATYS platformuna web paneli veya mobil uygulama üzerinden kayıt olur.
 Kayıt sürecinde:
 •	Tarla bilgileri (konum, büyüklük, ürün türü) 
