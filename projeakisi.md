@@ -95,6 +95,7 @@
 * 📊 Rapor Gıthub'a push edildi.
 
 ---  
+
 📅 2. Hafta
 ** 👤 Avşin Pelin BİLGİÇ: Developer 👑
 
@@ -105,6 +106,7 @@
 📊 Hazırlanan tüm çalışmalar düzenlenerek GitHub reposuna push edildi.
 
 ---
+
 ## 📅 3. Hafta
 **👤 Neva YILDIZ:** Developer 👑
 
