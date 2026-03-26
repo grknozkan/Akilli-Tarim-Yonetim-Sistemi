@@ -21,7 +21,9 @@ Ardından sistem:
 •	Sensörleri veri akışına dahil eder 
 👉 Bu aşamada kullanıcı henüz pasiftir, sistem veri toplamaya başlar.
 ________________________________________
+
 📡 2. Veri Toplama ve İzleme
+
 Sahadaki sensörler sürekli olarak veri üretir:
 •	Toprak nemi 
 •	Hava sıcaklığı 
@@ -35,8 +37,11 @@ Kullanıcı:
 •	Mobil uygulamadan anlık durumu kontrol eder 
 👉 Kullanıcı artık sistemi gözlemleyen aktif bir izleyici haline gelir.
 ________________________________________
+
 🧠 3. Yapay Zeka Analizi ve Karar Üretimi
+
 Toplanan veriler, TensorFlow tabanlı modeller tarafından analiz edilir.
+
 Sistem:
 •	Geçmiş veriler + anlık verileri birleştirir 
 •	En uygun: 
@@ -49,7 +54,9 @@ Ayrıca:
 gibi durumları önceden tahmin eder. 
 👉 Bu aşamada sistem, kullanıcı yerine düşünmeye başlar (karar destek rolü).
 ________________________________________
+
 🚨 4. Bildirim ve Uyarı Deneyimi
+
 Kritik bir durum oluştuğunda:
 •	Mobil uygulamaya anlık bildirim (push notification) gönderilir 
 •	Web panelinde uyarı gösterilir 
@@ -61,7 +68,9 @@ Kullanıcı:
 •	Önerilen aksiyonu kabul edebilir veya değiştirebilir 
 👉 Kullanıcı artık sistemle etkileşim halindedir.
 ________________________________________
+
 ⚙️ 5. Otonom Müdahale ve Kontrol
+
 Belirli senaryolarda sistem:
 •	Sulama sistemini otomatik açar 
 •	Gübreleme sürecini başlatır 
@@ -71,7 +80,9 @@ Ancak kullanıcı isterse:
 •	Otomatik kararı iptal edebilir 
 👉 Bu aşama “insan + yapay zeka iş birliği” noktasıdır.
 ________________________________________
+
 📊 6. Performans Takibi ve Optimizasyon
+
 Zamanla sistem:
 •	Ürün verimini analiz eder 
 •	Su ve gübre kullanımını raporlar 
@@ -84,7 +95,9 @@ o	Sistem performansı
 verilerini izler 
 👉 Kullanıcı artık veri odaklı kararlar alabilen bir operatöre dönüşür.
 ________________________________________
+
 🔄 7. Süreklilik ve Ölçekleme
+
 Sistem:
 •	Yeni sensörler eklenmesine izin verir 
 •	Farklı tarlalara genişleyebilir 
@@ -94,6 +107,7 @@ Kullanıcı:
 •	Tek panelden tüm operasyonu yönetir 
 👉 Bu aşama sistemin uzun vadeli değerini gösterir.
 ________________________________________
+
 🎯 Özet Akış (Kısa User Journey)
 1.	Kayıt olur → tarla bilgilerini girer 
 2.	Sensörler veri toplamaya başlar 
