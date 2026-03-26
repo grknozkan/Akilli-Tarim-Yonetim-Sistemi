@@ -96,14 +96,14 @@
 
 ---  
 
-📅 2. Hafta
+## 📅 2. Hafta
 ** 👤 Avşin Pelin BİLGİÇ: Developer 👑
 
-✅ Tamamlanan Görevler
-📈 Sensör verilerinden başlayarak yapay zekâ analizine ve kullanıcı arayüzlerine kadar uzanan süreçleri kapsayan user journey (kullanıcı deneyim akışı) oluşturuldu.
-🔄 Sistem bileşenleri arasındaki etkileşimi ve veri akışını gösteren flowchart (akış diyagramı) hazırlandı.
-📄 Projeye ait analiz, kullanıcı akışı ve sistem yapısını içeren dokümantasyon dosyası oluşturuldu.
-📊 Hazırlanan tüm çalışmalar düzenlenerek GitHub reposuna push edildi.
+### ✅ Tamamlanan Görevler
+* 📈 Sensör verilerinden başlayarak yapay zekâ analizine ve kullanıcı arayüzlerine kadar uzanan süreçleri kapsayan user journey (kullanıcı deneyim akışı) oluşturuldu.
+* 🔄 Sistem bileşenleri arasındaki etkileşimi ve veri akışını gösteren flowchart (akış diyagramı) hazırlandı.
+* 📄 Projeye ait analiz, kullanıcı akışı ve sistem yapısını içeren dokümantasyon dosyası oluşturuldu.
+* 📊 Hazırlanan tüm çalışmalar düzenlenerek GitHub reposuna push edildi.
 
 ---
 
