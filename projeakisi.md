@@ -5,7 +5,7 @@
 ---
 
 ## 📅 1. Hafta
-**👤 Gürkan Özkan:** Scrum Master / Yönetici 👑
+**👤 Gürkan Özkan:** Scrum Master 👑
 
 ### ✅ Tamamlanan Görevler
 
@@ -62,6 +62,17 @@
 
 ---
 
+## 📅 2. Hafta
+**👤 Gürkan Özkan:** Scrum Master 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🏗️ **Sistem Mimarisi Belirlendi:** Projenin genel bakışı, teknoloji yığını (ESP32, LoRaWAN, AWS, Flutter vb.), 5 katmanlı yapısı, örnek veri akış senaryosu, veritabanı stratejisi ve güvenlik altyapısı detaylandırıldı.
+* 📄 **Doküman Hazırlandı:** Sistem için belirlenen tüm bu teknik detayları ve işleyişi içeren kapsamlı "Proje Mimarisi Belgesi" yazıldı.
+* 🚀 **GitHub'a Aktarıldı:** Hazırlanan mimari dokümanı, projenin GitHub reposuna başarıyla push edildi.
+  
+  ---
+  
 ## 📅 2. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
 
