@@ -5,7 +5,7 @@
 ---
 
 ## 📅 1. Hafta
-**👤 Gürkan Özkan:** Scrum Master 👑
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
 
 ### ✅ Tamamlanan Görevler
 
@@ -63,7 +63,7 @@
 ---
 
 ## 📅 2. Hafta
-**👤 Gürkan Özkan:** Scrum Master 👑
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
 
 ### ✅ Tamamlanan Görevler
 
