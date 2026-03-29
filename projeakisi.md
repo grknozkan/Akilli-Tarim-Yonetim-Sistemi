@@ -117,3 +117,12 @@
 * 📊 Rapor Gıthub'a push edildi.
 
 ---
+
+## 📅 2. Hafta
+**👤 Mehmet Kerem KÜÇÜK:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 API sistemi tasarlandı.
+* 📈 Dökümantasyonu hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
