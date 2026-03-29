@@ -126,3 +126,23 @@
 * 🔬 API sistemi tasarlandı.
 * 📈 Dökümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
+
+---
+
+## 📅 3. Hafta
+**👤 Ümitcan ÇİNAR:** Developer 👑
+
+* 🔬 ✅ Tamamlanan Görevler
+
+UI/UX Wireframe ve Bilgi Mimarisi Tasarımı: Akıllı Tarım Yönetim Sistemi (ATYS) projesinin 1. Sprint aşaması için web tabanlı saha izleme ve yönetim panelinin yapısal tasarımı tamamlandı. Kullanım kolaylığını maksimize etmek amacıyla üç ana sütun ve bir üst bilgi çubuğundan oluşan genel ekran düzeni (layout) planlandı.
+
+Bölgesel Fonksiyon Analizleri: Kullanıcı arayüzü; hızlı bildirimlerin yer aldığı Üst Bar, sayfa geçişleri için Sol Navigasyon, gerçek zamanlı veriler için Orta Ana İçerik ve ekip yönetimi için Sağ Yönetim Sütunu şeklinde detaylandırıldı.
+
+İnteraktif Saha ve Sensör Veri Tasarımı: Tarlaların kuşbakışı görünümü için interaktif harita yapısı ve sensörlerin genel sağlık durumunu (%95 Aktif vb.) gösteren metrik paneli kurgulandı. Ayrıca sensör durumlarını listeleyen veri tabloları ve haftalık analiz grafikleri tasarım raporuna eklendi.
+
+Yönetim ve AI Entegrasyonu Planlaması: Ekip üyelerinin aktif GitHub görevlerini takip edebileceği bir alan ve yapay zeka destekli analizler sunan AI Scrum Master Asistanı Paneli wireframe içeriğine dahil edildi.
+
+Raporlama: Tasarım kararlarını ve teknik detayları içeren "Kullanıcı Arayüzü (UI) Wireframe ve Tasarım Raporu" hazırlanarak belgelendi.
+
+
+---
