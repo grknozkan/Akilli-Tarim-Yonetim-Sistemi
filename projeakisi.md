@@ -107,17 +107,6 @@
 
 ---
 
-## 📅 3. Hafta
-**👤 Neva YILDIZ:** Developer 👑
-
-### ✅ Tamamlanan Görevler
-
-* 🔬 Projenin gereksinimlerine uygun veritabanı şemasını oluşturuldu.
-* 📈 DOkümantasyonu hazırlandı.
-* 📊 Rapor Gıthub'a push edildi.
-
----
-
 ## 📅 2. Hafta
 **👤 Mehmet Kerem KÜÇÜK:** Developer 👑
 
@@ -125,6 +114,17 @@
 
 * 🔬 API sistemi tasarlandı.
 * 📈 Dökümantasyonu hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
+
+---
+
+## 📅 3. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Projenin gereksinimlerine uygun veritabanı şemasını oluşturuldu.
+* 📈 DOkümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
 
 ---
@@ -143,6 +143,5 @@ Bölgesel Fonksiyon Analizleri: Kullanıcı arayüzü; hızlı bildirimlerin yer
 Yönetim ve AI Entegrasyonu Planlaması: Ekip üyelerinin aktif GitHub görevlerini takip edebileceği bir alan ve yapay zeka destekli analizler sunan AI Scrum Master Asistanı Paneli wireframe içeriğine dahil edildi.
 
 Raporlama: Tasarım kararlarını ve teknik detayları içeren "Kullanıcı Arayüzü (UI) Wireframe ve Tasarım Raporu" hazırlanarak belgelendi.
-
 
 ---
