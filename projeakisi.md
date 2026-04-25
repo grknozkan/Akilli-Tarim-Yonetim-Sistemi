@@ -145,3 +145,16 @@ Yönetim ve AI Entegrasyonu Planlaması: Ekip üyelerinin aktif GitHub görevler
 Raporlama: Tasarım kararlarını ve teknik detayları içeren "Kullanıcı Arayüzü (UI) Wireframe ve Tasarım Raporu" hazırlanarak belgelendi.
 
 ---
+
+## 📅 5. Hafta
+**👤 Ümitcan ÇİNAR:** Developer 👑
+
+🔬 ✅ Tamamlanan Görevler
+
+Kullanıcı Arayüzü (UI) Test Senaryoları Geliştirme: Akıllı Tarım Yönetim Sistemi (ATYS) arayüzünün tasarım modellerine (wireframe) uygunluğunu ve farklı senaryolarda doğru çalıştığını doğrulamak için 13 maddelik kapsamlı bir test planı hazırlandı.
+Test Kategorizasyonu ve Kapsam: Dashboard navigasyonu, interaktif harita pinleri, haftalık veri grafikleri ve AI Scrum Master bildirimlerinin kontrolünü içeren temel mantıksal akış senaryoları oluşturuldu.
+Gelişmiş Etkileşim ve Uyumluluk Testleri: Kullanıcı profil yönetimi, yetkilendirme (Collaborator) denetimleri, akıllı arama çubuğu, sensör filtreleme mekanizmaları ve sistemin mobil cihaz uyumluluğu (responsive) gibi detaylı sistem tepkilerini ölçecek senaryolar dokümante edildi.
+Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklenen sonuçları tablolar halinde içeren "Kullanıcı Arayüzü (UI) Test Senaryoları ve Planlama Raporu" oluşturularak 5. Hafta görev teslim formatına uygun hale getirildi.
+
+---
+
