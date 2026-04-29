@@ -158,3 +158,11 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 
 ---
 
+## 📅 5. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Mevcut veritabanı yapısı incelendi ve performansı artırmak için gerekli optimizasyonlar yapıldı. Veritabanı entegrasyonu tamamlandı ve test ortamında doğrulandı.
+* 📈 DOkümantasyonu hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
