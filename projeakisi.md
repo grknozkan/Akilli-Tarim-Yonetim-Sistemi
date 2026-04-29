@@ -166,3 +166,14 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 * 🔬 Mevcut veritabanı yapısı incelendi ve performansı artırmak için gerekli optimizasyonlar yapıldı. Veritabanı entegrasyonu tamamlandı ve test ortamında doğrulandı.
 * 📈 DOkümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
+  
+  ---
+  
+  ## 📅 5. Hafta
+  **👤 Avşin Pelin Bilgiç:** Developer 👑
+
+* 🧑‍💻 ✅ Tamamlanan Görevler
+
+🔒 Güvenlik Test Senaryosu Raporu Hazırlama: ATYS projesinin 5 ana bileşeni için toplam 32 güvenlik test senaryosu hazırlandı.
+🛡️ Kritik Güvenlik Testleri Tanımlandı: JWT, SQL Injection, LoRaWAN ve kimlik doğrulama testleri belirlendi.
+🧪 Test Metodolojisi Oluşturuldu: Bandit, OWASP ZAP, SQLmap ve Wireshark araçları ile 6 günlük test planı hazırlandı.
