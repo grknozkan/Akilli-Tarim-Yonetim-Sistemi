@@ -177,3 +177,17 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 🔒 Güvenlik Test Senaryosu Raporu Hazırlama: ATYS projesinin 5 ana bileşeni için toplam 32 güvenlik test senaryosu hazırlandı.
 🛡️ Kritik Güvenlik Testleri Tanımlandı: JWT, SQL Injection, LoRaWAN ve kimlik doğrulama testleri belirlendi.
 🧪 Test Metodolojisi Oluşturuldu: Bandit, OWASP ZAP, SQLmap ve Wireshark araçları ile 6 günlük test planı hazırlandı.
+
+  ---
+  
+## 📅 5. Hafta
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
+
+# ✅ Tamamlanan Görevler (API Entegrasyon ve Test)
+
+Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başarıyla tamamlanmıştır:
+
+* **API Bağlantı Testi:** `Lavyer12` uç noktası (endpoint) test edildi ve `200 OK` (başarılı) yanıtı alınarak bağlantının sorunsuz çalıştığı doğrulandı.
+* **API Dokümantasyonunun Hazırlanması:** Bağlantı adresi, HTTP metodu (`GET`) ve olası durum/hata kodlarını (`200`, `404`, `500`) içeren teknik doküman hazırlandı.
+* **Örnek Entegrasyon Kodu:** Sisteme entegre olacak diğer geliştiriciler için temel API çağrısını yapan örnek `Python` script'i yazıldı.
+* **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
