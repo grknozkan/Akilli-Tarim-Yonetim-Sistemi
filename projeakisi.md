@@ -61,17 +61,6 @@
 * 📢 Ekip üyelerine araçların kullanımı hakkında bilgilendirme yapıldı.
 
 ---
-
-## 📅 2. Hafta
-**👤 Gürkan ÖZKAN:** Scrum Master 👑
-
-### ✅ Tamamlanan Görevler
-
-* 🏗️ **Sistem Mimarisi Belirlendi:** Projenin genel bakışı, teknoloji yığını (ESP32, LoRaWAN, AWS, Flutter vb.), 5 katmanlı yapısı, örnek veri akış senaryosu, veritabanı stratejisi ve güvenlik altyapısı detaylandırıldı.
-* 📄 **Doküman Hazırlandı:** Sistem için belirlenen tüm bu teknik detayları ve işleyişi içeren kapsamlı "Proje Mimarisi Belgesi" yazıldı.
-* 🚀 **GitHub'a Aktarıldı:** Hazırlanan mimari dokümanı, projenin GitHub reposuna başarıyla push edildi.
-  
-  ---
   
 ## 📅 2. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
@@ -94,9 +83,20 @@
 * 📄 Detaylı Sistem Analizi ve Veri Akış Şeması dokümanı hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
 
+---
+
+## 📅 3. Hafta
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🏗️ **Sistem Mimarisi Belirlendi:** Projenin genel bakışı, teknoloji yığını (ESP32, LoRaWAN, AWS, Flutter vb.), 5 katmanlı yapısı, örnek veri akış senaryosu, veritabanı stratejisi ve güvenlik altyapısı detaylandırıldı.
+* 📄 **Doküman Hazırlandı:** Sistem için belirlenen tüm bu teknik detayları ve işleyişi içeren kapsamlı "Proje Mimarisi Belgesi" yazıldı.
+* 🚀 **GitHub'a Aktarıldı:** Hazırlanan mimari dokümanı, projenin GitHub reposuna başarıyla push edildi.
+  
 ---  
 
-## 📅 2. Hafta
+## 📅 3. Hafta
 **👤 Avşin Pelin BİLGİÇ:** Developer 👑
 
 ### ✅ Tamamlanan Görevler
@@ -107,7 +107,7 @@
 
 ---
 
-## 📅 2. Hafta
+## 📅 3. Hafta
 **👤 Mehmet Kerem KÜÇÜK:** Developer 👑
 
 ### ✅ Tamamlanan Görevler
