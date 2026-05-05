@@ -61,6 +61,22 @@
 * 📢 Ekip üyelerine araçların kullanımı hakkında bilgilendirme yapıldı.
 
 ---
+
+## 📅 2. Hafta
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
+
+### ✅ Tamamlanan Görevler
+
+* **Algoritma İhtiyaç Analizi Yapıldı:** Sistemin alt modülleri olan akıllı sulama, gübreleme ve ilaçlama süreçleri için gereken Makine Öğrenimi (ML) ve Derin Öğrenme (DL) gereksinimleri belirlendi.
+* **Modüllere Uygun Modeller Seçildi:**
+  * Anlık sulama kararları için **Random Forest**, uzun vadeli tahminler için **LSTM** seçildi.
+  * Gübreleme optimizasyonu için **XGBoost** algoritması belirlendi.
+  * Kamera destekli anlık hastalık ve zararlı tespiti için **YOLO** ve **CNN** mimarilerine karar verildi.
+* **Performans ve Kaynak Karşılaştırması Raporlandı:** Seçilen tüm algoritmaların doğruluk oranları, tahmin hızları ve CPU/GPU tüketim metrikleri analiz edilerek tablo haline getirildi.
+* **Sistem Dağıtım (Deployment) Stratejisi Çizildi:** Hafif algoritmaların tarladaki cihazlarda (Edge Computing - Uçta Hesaplama), ağır görüntü işleme ve tahmin modellerinin ise bulutta (Cloud) çalıştırılması planlandı.
+* **Sonuç:** Tüm bu araştırma ve kararları içeren detaylı **"Yapay Zeka Algoritma Analiz Raporu"** başarıyla hazırlanıp belgelendi.
+
+---
   
 ## 📅 2. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
