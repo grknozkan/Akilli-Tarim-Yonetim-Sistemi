@@ -183,10 +183,10 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 * 📈 DOkümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
   
-  ---
+ ---
   
-  ## 📅 5. Hafta
-  **👤 Avşin Pelin Bilgiç:** Developer 👑
+ ## 📅 5. Hafta
+ **👤 Avşin Pelin Bilgiç:** Developer 👑
 
 * 🧑‍💻 ✅ Tamamlanan Görevler
 
