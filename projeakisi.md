@@ -207,3 +207,9 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **API Dokümantasyonunun Hazırlanması:** Bağlantı adresi, HTTP metodu (`GET`) ve olası durum/hata kodlarını (`200`, `404`, `500`) içeren teknik doküman hazırlandı.
 * **Örnek Entegrasyon Kodu:** Sisteme entegre olacak diğer geliştiriciler için temel API çağrısını yapan örnek `Python` script'i yazıldı.
 * **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
+
+📅 4. Hafta
+
+👤 Ümitcan ÇİNAR: Developer 👑
+🔬 ✅ Tamamlanan Görevler
+Kullanıcı Arayüzü (UI) Görsel ve Fonksiyonel İyileştirmeler: Akıllı Tarım Yönetim Sistemi (ATYS) arayüzündeki kullanıcı deneyimini (UX) geliştirmek adına dashboard bileşenleri optimize edildi; buton yerleşimleri, renk paleti ve tipografi unsurları daha modern ve okunabilir bir yapıya kavuşturuldu. Erişilebilirlik (Accessibility) Denetimi ve WCAG Uyumluluğu: Sistemin WCAG 2.1 (AA) standartlarına uygunluğunu doğrulamak için renk kontrast oranları, yazı tipi boyutları ve hiyerarşik yapı test edildi; görme engelli kullanıcılar için yüksek kontrastlı mod ve okunabilirlik iyileştirmeleri yapıldı. Navigasyon ve Teknik Erişilebilirlik Testleri: Fare kullanımına ihtiyaç duymadan, sadece klavye ile tam navigasyon sağlanması için odaklanabilir (focus) elemanlar revize edildi; tüm görsel öğelere ve grafiklere ekran okuyucu (Screen Reader) uyumluluğu için açıklayıcı ARIA etiketleri eklendi. Dokümantasyon ve Hata Giderme: Yapılan erişilebilirlik testlerinde tespit edilen aksaklıklar giderilerek, tüm iyileştirme süreçlerini ve standartlara uyumluluk skorlarını içeren "Arayüz İyileştirme ve Erişilebilirlik Raporu" 4. Hafta formatına uygun şekilde dokümante edildi.
