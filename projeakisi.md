@@ -207,3 +207,9 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **API Dokümantasyonunun Hazırlanması:** Bağlantı adresi, HTTP metodu (`GET`) ve olası durum/hata kodlarını (`200`, `404`, `500`) içeren teknik doküman hazırlandı.
 * **Örnek Entegrasyon Kodu:** Sisteme entegre olacak diğer geliştiriciler için temel API çağrısını yapan örnek `Python` script'i yazıldı.
 * **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
+
+* 📅 2. Hafta (YENİ VERİLEN GÖREV)
+
+👤 Ümitcan ÇİNAR: Developer 👑
+🔬 ✅ Tamamlanan Görevler
+IoT Veri Toplama ve Mimari Analizi Geliştirme: Akıllı Tarım uygulaması için kullanılacak IoT sensörlerinden (nem, sıcaklık, ışık vb.) gelen verilerin nasıl toplanacağını ve işleneceğini belirleyen kapsamlı bir analiz planı hazırlandı. Veri Ön İşleme ve Kalite Yönetimi: Veri kaybını önlemek ve veri kalitesini artırmak için sahadan gelen ham verilerin temizlenmesi (cleaning), dönüştürülmesi (transformation) ve normalleştirilmesi adımları detaylı olarak tanımlandı. Ağ Çözümleri ve Mimari Katmanların Tasarımı: LPWAN (LoRaWAN/NB-IoT) ağları, MQTT protokolü kullanımı ve yerel önbellekleme (Store-and-Forward) mekanizmaları belirlendi; Algılama, Kenar Bilişim, Veri Yutma ve İşleme/Depolama katmanlarını içeren 4 aşamalı sistem tasarlandı. Raporlama ve Dokümantasyon: Tüm bu analiz süreçlerini, mimari katmanların işlevlerini ve veri akışını içeren "Akıllı Tarım Veri Toplama ve İşleme Analiz Raporu" ile veri modülünün temel mimari şeması oluşturularak 2. Hafta görev teslim formatına uygun hale getirildi.
