@@ -161,6 +161,20 @@ Yönetim ve AI Entegrasyonu Planlaması: Ekip üyelerinin aktif GitHub görevler
 Raporlama: Tasarım kararlarını ve teknik detayları içeren "Kullanıcı Arayüzü (UI) Wireframe ve Tasarım Raporu" hazırlanarak belgelendi.
 
 ---
+  
+## 📅 4. Hafta
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
+
+# ✅ Tamamlanan Görevler (API Güvenlik Kontrolleri ve Veri Doğrulama)
+
+Sistemin dışarıya açılan köprüsü (API) üzerinde tespit edilen potansiyel güvenlik açıkları kapatılmış ve aşağıdaki entegrasyon/güvenlik adımları başarıyla koda dökülmüştür:
+
+* **Kimlik Doğrulama (API Key) Mekanizması Kuruldu:** Sisteme dışarıdan veri gönderen cihazlar ve tetikleyiciler için `x-api-key` kontrolü (Header üzerinden) zorunlu hale getirildi. 
+* **Kritik Uç Noktalar (Endpoints) Güvenceye Alındı:** Su pompasını çalıştıran `/pompa-kontrol` ve sisteme veri yazan `/veri-gonder` adreslerine yetkisiz erişim (401 Unauthorized) tamamen engellendi.
+* **Gelişmiş Veri Doğrulama (Input Validation) Eklendi:** Kötü niyetli veri gönderimini ve sistemin çökmesini engellemek için Pydantic `Field` yapısı kullanıldı. Sensör verilerine mantıksal sınırlar getirildi (Örn: Nem oranı 0-100 arası, sıcaklık -40 ile +80 derece arası sabitlendi).
+* **Okuma İzinleri Ayarlandı:** Çiftçiye ait mobil uygulamanın verileri kesintisiz ve hızlı çekebilmesi adına, sadece veri okuma işlemi yapan `/son-durum` uç noktası genel erişime açık (Public) bırakıldı.
+* **Sonuç:** API entegrasyonu tamamlandı ve dış müdahalelere karşı %100 kapalı devre güvenlik standartlarına ulaşıldı.
+---
 
 ## 📅 5. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
