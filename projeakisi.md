@@ -49,7 +49,7 @@
 * 📈 Kod için gerekli ortam sağlandı.
 * 📊 Rapor Gıthub'a push edildi.
 
-  ---
+---
 
 ## 📅 1. Hafta
 **👤 Avşin Pelin BİLGİÇ:** Developer 👑
@@ -219,8 +219,8 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 * 🔬 Mevcut veritabanı yapısı incelendi ve performansı artırmak için gerekli optimizasyonlar yapıldı. Veritabanı entegrasyonu tamamlandı ve test ortamında doğrulandı.
 * 📈 DOkümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
-  
- ---
+
+---
   
  ## 📅 5. Hafta
  **👤 Avşin Pelin Bilgiç:** Developer 👑
@@ -231,7 +231,7 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 🛡️ Kritik Güvenlik Testleri Tanımlandı: JWT, SQL Injection, LoRaWAN ve kimlik doğrulama testleri belirlendi.
 🧪 Test Metodolojisi Oluşturuldu: Bandit, OWASP ZAP, SQLmap ve Wireshark araçları ile 6 günlük test planı hazırlandı.
 
-  ---
+---
   
 ## 📅 5. Hafta
 **👤 Gürkan ÖZKAN:** Scrum Master 👑
@@ -245,7 +245,7 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **Örnek Entegrasyon Kodu:** Sisteme entegre olacak diğer geliştiriciler için temel API çağrısını yapan örnek `Python` script'i yazıldı.
 * **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
 
-  ---
+---
   
 ## 📅 6. Hafta
 **👤 Gürkan ÖZKAN:** Scrum Master 👑
