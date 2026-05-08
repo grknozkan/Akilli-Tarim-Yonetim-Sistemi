@@ -233,6 +233,19 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **Örnek Entegrasyon Kodu:** Sisteme entegre olacak diğer geliştiriciler için temel API çağrısını yapan örnek `Python` script'i yazıldı.
 * **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
 
+  ---
+  
+## 📅 6. Hafta
+**👤 Gürkan ÖZKAN:** Scrum Master 👑
+
+# ✅ Tamamlanan Görevler
+* **Asenkron (Async) Mimarisine Geçiş:** API üzerindeki tüm uç noktalar (endpoints) `async def` yapısına geçirilerek, aynı anda yüzlerce IoT sensöründen gelebilecek veri akışını darboğaz (bottleneck) yaratmadan işleyecek şekilde performans maksimizasyonu sağlandı.
+* **Hata Yönetimi (Exception Handling):** Sistem genelinde oluşabilecek anlık kopmalar ve veri okuma hatalarına karşı `try-except` blokları entegre edildi. Sistemin çökmek (crash) yerine durumu tolere edip anlamlı hata kodları (HTTP 500) döndürmesi sağlandı.
+* **Loglama (Kayıt) Sistemi Kuruldu:** Hataların anlık olarak takip edilebilmesi ve gelecekteki "debugging" işlemlerinin kolaylaşması için sistem arka planına `logging` modülü eklendi.
+* **Sonuç:** Sistem stres testlerine ve canlı ortamdaki (production) zorlu koşullara hazır hale getirildi. Hata ayıklama ve performans iyileştirme görevi başarıyla kapatıldı.
+
+    ---
+  
 * 📅 2. Hafta (YENİ VERİLEN GÖREV)
 
 👤 Ümitcan ÇİNAR: Developer 👑
