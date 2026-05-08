@@ -208,6 +208,11 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **Örnek Entegrasyon Kodu:** Sisteme entegre olacak diğer geliştiriciler için temel API çağrısını yapan örnek `Python` script'i yazıldı.
 * **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
 
+📅 6. Hafta
+
+👤 Ümitcan ÇİNAR: Developer 👑
+🔬 ✅ Tamamlanan Görevler
+Sunum Provası ve Zaman Yönetimi: Akıllı Tarım Yönetim Sistemi (ATYS) final sunumu için akış planı oluşturuldu ve konu anlatımlarının belirlenen süre sınırları içinde kalmasını sağlayacak çoklu zamanlı provalar gerçekleştirildi. İçerik Optimizasyonu ve Görselleştirme: Sunum slaytlarındaki karmaşık teknik detaylar (IoT veri toplama mimarisi, katmanlı yapı ve UI test sonuçları) hedef kitlenin daha rahat kavrayabileceği şekilde sadeleştirildi; metin yoğunluğu azaltılarak etkili infografikler ve şemalarla desteklendi. Etkili Anlatım ve Vurgu Stratejileri: Projenin temel değer önerisini ve yenilikçi yönlerini (Kenar Bilişim uygulamaları, veri normalizasyonu ve kullanıcı dostu arayüz tasarımı) dinleyicilere en iyi şekilde aktarabilmek için anlatım dinamiği artırıldı ve odak noktaları belirlendi. Raporlama ve Dokümantasyon: Provalar sırasında alınan geri bildirimler doğrultusunda slaytlardaki son revizyonlar tamamlanarak içerik nihai haline getirildi ve 6. Hafta görev teslim formatına uygun olarak sunuma hazır hale getirildi.
 📅 4. Hafta
 
 👤 Ümitcan ÇİNAR: Developer 👑
