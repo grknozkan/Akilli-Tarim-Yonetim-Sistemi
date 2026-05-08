@@ -187,6 +187,18 @@ Sistemin dışarıya açılan köprüsü (API) üzerinde tespit edilen potansiye
 * **Sonuç:** API entegrasyonu tamamlandı ve dış müdahalelere karşı %100 kapalı devre güvenlik standartlarına ulaşıldı.
 ---
 
+
+## 📅 4. Hafta
+**👤 Mehmet Kerem Küçük:** Developer 👑
+
+* 🔬 ✅ Tamamlanan Görevler
+
+* 🔬 Mevcut kodlar hakkında inceleme yapılıp iyileştirme yapılması gereken yerlerde iyileştirme yapıldı.
+* 📈 Hatalar ayıklanıp düzeltildi.
+* 📊 Kodlar düzenleştirildi.
+
+ ---
+
 ## 📅 5. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
 
@@ -244,7 +256,18 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **Loglama (Kayıt) Sistemi Kuruldu:** Hataların anlık olarak takip edilebilmesi ve gelecekteki "debugging" işlemlerinin kolaylaşması için sistem arka planına `logging` modülü eklendi.
 * **Sonuç:** Sistem stres testlerine ve canlı ortamdaki (production) zorlu koşullara hazır hale getirildi. Hata ayıklama ve performans iyileştirme görevi başarıyla kapatıldı.
 
----
+    ---
+
+## 📅 6. Hafta
+**👤 Mehmet Kerem Küçük:** Developer 👑
+
+* 🔬 ✅ Tamamlanan Görevler
+
+* 🔬 Gerekli Geri Bildirimler Toplandı.
+* 📈 Hatalar ayıklanıp düzeltildi.
+* 📊 Githuba yeni ve temiz kodlar gönderilip web tabanlı arayüzler canlıya alındı.
+
+ ---
   
 * 📅 2. Hafta (YENİ VERİLEN GÖREV)
 
