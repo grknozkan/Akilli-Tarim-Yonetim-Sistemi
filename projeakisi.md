@@ -100,6 +100,17 @@
 * 📊 Rapor Gıthub'a push edildi.
 
 ---
+## 📅 2. Hafta
+**👤 Mehmet Kerem KÜÇÜK:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+
+* 📈 Web Tabanl Panel Arayüzü Tamamlandı.
+* 📄 Geri Bildirim Kısmı Eklendi.
+* 📊 Rapor Gıthub'a push edildi.
+
+---
 
 ## 📅 3. Hafta
 **👤 Gürkan ÖZKAN:** Scrum Master 👑
