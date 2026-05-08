@@ -176,7 +176,7 @@ Raporlama: Tasarım kararlarını ve teknik detayları içeren "Kullanıcı Aray
 ## 📅 4. Hafta
 **👤 Gürkan ÖZKAN:** Scrum Master 👑
 
-# ✅ Tamamlanan Görevler (API Güvenlik Kontrolleri ve Veri Doğrulama)
+### ✅ Tamamlanan Görevler (API Güvenlik Kontrolleri ve Veri Doğrulama)
 
 Sistemin dışarıya açılan köprüsü (API) üzerinde tespit edilen potansiyel güvenlik açıkları kapatılmış ve aşağıdaki entegrasyon/güvenlik adımları başarıyla koda dökülmüştür:
 
