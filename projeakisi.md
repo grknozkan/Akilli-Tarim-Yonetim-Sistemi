@@ -151,7 +151,7 @@
 ### ✅ Tamamlanan Görevler
 
 * 🔬 Projenin gereksinimlerine uygun veritabanı şemasını oluşturuldu.
-* 📈 DOkümantasyonu hazırlandı.
+* 📈 Dokümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
 
 ---
@@ -199,6 +199,18 @@ Sistemin dışarıya açılan köprüsü (API) üzerinde tespit edilen potansiye
 
  ---
 
+## 📅 4. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+🔬 ✅ Tamamlanan Görevler
+
+* 🔬Veritabanı sorguları optimize edildi.
+* 📈Sistem performansını test ederek darboğazlar tespit edildi.
+* 📄Dokümantasyonu hazırlandı.
+* 📊 Rapor Gıthub'a push edildi.
+
+  ---
+
 ## 📅 5. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
 
@@ -217,7 +229,7 @@ Raporlama ve Dokümantasyon: Tüm senaryoları, uygulama adımlarını ve beklen
 ### ✅ Tamamlanan Görevler
 
 * 🔬 Mevcut veritabanı yapısı incelendi ve performansı artırmak için gerekli optimizasyonlar yapıldı. Veritabanı entegrasyonu tamamlandı ve test ortamında doğrulandı.
-* 📈 DOkümantasyonu hazırlandı.
+* 📈 Dokümantasyonu hazırlandı.
 * 📊 Rapor Gıthub'a push edildi.
 
 ---
@@ -274,3 +286,13 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 👤 Ümitcan ÇİNAR: Developer 👑
 🔬 ✅ Tamamlanan Görevler
 IoT Veri Toplama ve Mimari Analizi Geliştirme: Akıllı Tarım uygulaması için kullanılacak IoT sensörlerinden (nem, sıcaklık, ışık vb.) gelen verilerin nasıl toplanacağını ve işleneceğini belirleyen kapsamlı bir analiz planı hazırlandı. Veri Ön İşleme ve Kalite Yönetimi: Veri kaybını önlemek ve veri kalitesini artırmak için sahadan gelen ham verilerin temizlenmesi (cleaning), dönüştürülmesi (transformation) ve normalleştirilmesi adımları detaylı olarak tanımlandı. Ağ Çözümleri ve Mimari Katmanların Tasarımı: LPWAN (LoRaWAN/NB-IoT) ağları, MQTT protokolü kullanımı ve yerel önbellekleme (Store-and-Forward) mekanizmaları belirlendi; Algılama, Kenar Bilişim, Veri Yutma ve İşleme/Depolama katmanlarını içeren 4 aşamalı sistem tasarlandı. Raporlama ve Dokümantasyon: Tüm bu analiz süreçlerini, mimari katmanların işlevlerini ve veri akışını içeren "Akıllı Tarım Veri Toplama ve İşleme Analiz Raporu" ile veri modülünün temel mimari şeması oluşturularak 2. Hafta görev teslim formatına uygun hale getirildi.
+
+---
+
+## 📅 6. Hafta
+**👤 Neva YILDIZ:** Developer 👑
+
+🔬 ✅ Tamamlanan Görevler
+* 🔬 Proje boyunca yapılan çalışmaları özetleyen kapsamlı bir rapor hazırlandı.
+* 📈 Tüm dokümantasyonu tamamlandı.
+* 📊  Rapor Gıthub'a push edildi.
