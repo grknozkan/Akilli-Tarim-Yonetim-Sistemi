@@ -112,6 +112,25 @@
 
 ---
 
+## 📅 2. Hafta  
+**👤 AVŞİN PELİN BİLGİÇ:** developer 👑   
+
+### ✅ Tamamlanan Görevler  
+
+* 📱 **Mobil Uygulama Arayüzü Tasarlandı:**  
+  Giriş ekranı, dashboard, sensör izleme ekranı, kontrol paneli ve alarm ayarları gibi temel mobil uygulama arayüzleri tasarlandı. Kullanıcı dostu ve sade bir tasarım yapısı oluşturuldu.
+
+* 🔄 **Kullanıcı Akışları Planlandı:**  
+  Kullanıcı giriş işlemleri, sensör verilerinin görüntülenmesi, uzaktan sulama kontrolü ve alarm yönetimi süreçleri detaylandırıldı.
+
+* 🧪 **Test ve Kullanılabilirlik Planı Hazırlandı:**  
+  Mobil uygulamanın kullanıcı deneyimini değerlendirmek amacıyla kullanıcı test senaryoları ve geri bildirim planı oluşturuldu.
+
+* 📄 **Rapor Dokümanı Hazırlandı:**  
+  Mobil uygulama arayüzü ve kullanıcı akışlarını içeren detaylı rapor dokümanı hazırlanarak projeye eklendi.
+
+---
+
 ## 📅 3. Hafta
 **👤 Gürkan ÖZKAN:** Scrum Master 👑
 
@@ -211,6 +230,25 @@ Sistemin dışarıya açılan köprüsü (API) üzerinde tespit edilen potansiye
 
   ---
 
+## 📅 4. Hafta  
+**👤 AVŞİN PELİN BİLGİÇ:** Developer 👑   
+
+### ✅ Tamamlanan Görevler  
+
+* 🧪 **Test Senaryoları Oluşturuldu:**  
+  Akıllı Tarım Yönetim Sistemi (ATYS) için farklı kullanım senaryolarını kapsayan kapsamlı test senaryoları hazırlandı.
+
+* 📋 **Kullanıcı Hikâyelerine Göre Planlama Yapıldı:**  
+  Test senaryoları; proje gereksinim belgesi ve kullanıcı hikâyeleri (US-1.1, US-2.1, US-2.2, US-3.1, US-4.1, US-5.1) temel alınarak yapılandırıldı.
+
+* ⚙️ **Sistem Bileşenleri İçin Kontroller Hazırlandı:**  
+  Sistemin 5 ana bileşeni için toplam 28 test senaryosu oluşturularak sistem kararlılığı ve hata kontrol süreçleri planlandı.
+
+* 📄 **Test Dokümantasyonu Tamamlandı:**  
+  Hazırlanan test senaryoları detaylı şekilde dokümante edilerek proje dosyalarına eklendi ve geliştirme sürecine hazır hale getirildi.
+
+---
+
 ## 📅 5. Hafta
 **👤 Ümitcan ÇİNAR:** Developer 👑
 
@@ -296,3 +334,23 @@ IoT Veri Toplama ve Mimari Analizi Geliştirme: Akıllı Tarım uygulaması içi
 * 🔬 Proje boyunca yapılan çalışmaları özetleyen kapsamlı bir rapor hazırlandı.
 * 📈 Tüm dokümantasyonu tamamlandı.
 * 📊  Rapor Gıthub'a push edildi.
+* ---
+
+## 📅 6. Hafta  
+**👤 AVŞİN PELİN BİLGİÇ:** Developer 👑
+
+### ✅ Tamamlanan Görevler  
+
+* 🌐 **Final Web Sitesi Özellik Analizi Yapıldı:**  
+  ATYS final web sitesinin sahip olacağı tüm temel sistem özellikleri, modüller ve kullanıcı ihtiyaçları detaylı şekilde araştırıldı.
+
+* 🔍 **API ve Sistem Entegrasyonları İncelendi:**  
+  Sensör verileri, görüntü işleme sistemleri, veri akışı, harita servisleri ve olası API entegrasyonları analiz edilerek teknik altyapı planlandı.
+
+* 🧠 **Fonksiyon ve Teknoloji Araştırması Tamamlandı:**  
+  Web sitesinde kullanılabilecek modern teknolojiler, kullanıcı paneli yapıları, gerçek zamanlı veri yönetimi ve kontrol sistemleri değerlendirildi.
+
+* 📄 **Kapsamlı Sistem Özellik Raporu Hazırlandı:**  
+  Github üzerindeki mevcut proje yapıları ve sistem dokümanları incelenerek final web sitesine ait detaylı analiz ve özellik raporu oluşturuldu.
+
+---
