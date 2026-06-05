@@ -206,7 +206,16 @@ Sistemin dışarıya açılan köprüsü (API) üzerinde tespit edilen potansiye
 * **Sonuç:** API entegrasyonu tamamlandı ve dış müdahalelere karşı %100 kapalı devre güvenlik standartlarına ulaşıldı.
 ---
 
+## 📅 4. Hafta
+**👤 Ümitcan ÇİNAR:** Developer 👑
 
+🔬 ✅ Tamamlanan Görevler
+
+ Gerekli incelemeler yapıldı, yapılmaya da devam edilicektir. Çünkü sistem sürekli iyileştirme felsefesi ile geliştirilmektedir.
+
+ ---
+
+ 
 ## 📅 4. Hafta
 **👤 Mehmet Kerem Küçük:** Developer 👑
 
@@ -330,7 +339,7 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 
  ---
   
-* 📅 2. Hafta (YENİ VERİLEN GÖREV)
+* 📅 6.hafta (2. Hafta diye VERİLEN GÖREV)
 
 👤 Ümitcan ÇİNAR: Developer 👑
 🔬 ✅ Tamamlanan Görevler
