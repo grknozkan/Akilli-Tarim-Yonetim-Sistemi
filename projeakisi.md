@@ -296,6 +296,17 @@ Bu proje kapsamında aşağıdaki entegrasyon ve belgelendirme adımları başar
 * **Test Sonuçlarının Raporlanması:** Kullanılan test aracı (Hoppscotch) belirtilerek entegrasyonun hazır olduğu onaylandı ve proje yöneticisi/ekip için raporlandı.
 
 ---
+
+## 📅 5. Hafta
+**👤 Mehmet Kerem KÜÇÜK:** Developer 👑
+
+### ✅ Tamamlanan Görevler
+
+* 🔬 Hatalar tespit edildi.
+* 📈 Kod optimizasyonları yapıldı.
+* 📊 Sonuçlar ölçülü.
+
+---
   
 ## 📅 6. Hafta
 **👤 Gürkan ÖZKAN:** Scrum Master 👑
