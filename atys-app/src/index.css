@@ -1,0 +1,185 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "SF Pro Display", system-ui, sans-serif;
+  --color-emerald-soft: #10B981;
+  --color-amber-soft: #F59E0B;
+  --color-blue-soft: #3B82F6;
+  --radius-apple: 1.25rem;
+}
+
+:root {
+  --app-bg: #F5F5F7;
+  --card-bg: #FFFFFF;
+  --text-primary: #000000;
+  --text-secondary: rgba(0, 0, 0, 0.5);
+  --border-color: rgba(0, 0, 0, 0.05);
+  --sidebar-bg: #FFFFFF;
+  --accent-color: #10B981;
+}
+
+.dark {
+  --app-bg: #000000;
+  --card-bg: #0A0A0A;
+  --text-primary: #FFFFFF;
+  --text-secondary: rgba(255, 255, 255, 0.5);
+  --border-color: rgba(255, 255, 255, 0.1);
+  --sidebar-bg: #000000;
+  --accent-color: #10B981;
+}
+
+@layer base {
+  body {
+    background-color: var(--app-bg);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    @apply transition-colors duration-500;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-primary) !important;
+  }
+  
+  p, span {
+    color: inherit;
+  }
+}
+
+@utility text-main {
+  color: var(--text-primary) !important;
+}
+
+@utility text-dim {
+  color: var(--text-secondary) !important;
+}
+
+@utility glass-card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-apple);
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+.dark .glass-card {
+  box-shadow: none;
+  background-color: #0A0A0A;
+}
+
+@utility sidebar-link {
+  @apply flex items-center gap-3 px-4 py-3 rounded-xl transition-all duration-200;
+  color: var(--text-secondary);
+}
+
+.sidebar-link:hover {
+  background-color: rgba(128, 128, 128, 0.08);
+  color: var(--text-primary);
+}
+
+@utility sidebar-link-active {
+  background-color: var(--card-bg);
+  color: var(--text-primary) !important;
+  font-weight: 700;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.dark .sidebar-link-active {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
+  border-radius: 9999px;
+}
+
+@keyframes ping-slow {
+  0% { transform: scale(1); opacity: 0.8; }
+  70% { transform: scale(2); opacity: 0; }
+  100% { transform: scale(1); opacity: 0; }
+}
+
+.animate-ping-slow {
+  animation: ping-slow 3s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* Modal overlay backdrop */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(6px);
+  z-index: 200;
+}
+
+/* Notification dropdown scrollbar */
+.notif-scroll::-webkit-scrollbar {
+  width: 3px;
+}
+.notif-scroll::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
+  border-radius: 9999px;
+}
+
+/* Interactive card hover glow */
+@utility interactive-card {
+  @apply glass-card cursor-pointer transition-all duration-300;
+}
+.interactive-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+}
+.dark .interactive-card:hover {
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.3);
+}
+
+/* Status badge */
+@utility status-badge {
+  @apply text-[9px] font-black px-2.5 py-1 rounded-full border uppercase tracking-wider;
+}
+
+/* Toggle switch */
+.toggle-track {
+  width: 44px;
+  height: 24px;
+  border-radius: 9999px;
+  transition: background-color 0.3s ease;
+  position: relative;
+}
+.toggle-thumb {
+  position: absolute;
+  top: 3px;
+  width: 18px;
+  height: 18px;
+  background: white;
+  border-radius: 9999px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Gradient text utility */
+@utility gradient-text {
+  background: linear-gradient(135deg, #10B981, #3B82F6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glass utility */
+@utility glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.dark .glass {
+  background: rgba(0, 0, 0, 0.2);
+}
+
