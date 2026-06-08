@@ -59,3 +59,6 @@ Bu sistem, aşağıdaki yazılım mühendisi kadrosu tarafından tasarlanmış v
 | 🧑‍💻 | **Neva YILDIZ** | Yazılım Mühendisi |
 
 > 🚀 **Proje Yayında:** [Buraya Tıklayarak Ziyaret Edebilirsiniz](https://ak-ll-tar-m-ys-348w.vercel.app/)
+>
+> sitenin ana hali şu repodadır https://github.com/umitcancinar/Ak-ll-_Tar-m_YS
+> bu repoda herkesin içeriği yazmaktadır bu nedenle karılıktır
