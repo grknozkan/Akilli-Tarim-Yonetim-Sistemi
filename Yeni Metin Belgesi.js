@@ -47,3 +47,36 @@ async function generateIrrigationDecision(fieldData, sensorData) {
         return null;
     }
 }
+// Örnek Kullanım Senaryosu
+async function runSystemCycle() {
+    const field = { crop_type: "Mısır" };
+    const currentSensors = { moisture: 25, temperature: 34 }; // Nem düşük, sıcaklık çok yüksek
+
+    console.log("Yapay Zeka Analizi Başlatılıyor...");
+    const aiDecision = await generateIrrigationDecision(field, currentSensors);
+
+    if (aiDecision) {
+        console.log("Karar Çıktısı:", aiDecision);
+        /* 
+          Konsol Çıktısı Örneği:
+          {
+            prediction_type: "sulama",
+            decision: true,
+            confidence: 95,
+            amount: 15,
+            reason: "Mısır için %25 nem çok düşük ve 34°C sıcaklıkta buharlaşma yüksek olacağından acil sulama gereklidir."
+          }
+        */
+
+        // 1. AI Predictions Tablosuna Yazma:
+        // ai_predictions.create({ field_id: 1, prediction_type: aiDecision.prediction_type, confidence: aiDecision.confidence })
+
+        // 2. Eğer karar 'true' ise Actions Tablosuna Yazma ve Sistemi Tetikleme:
+        if (aiDecision.decision === true) {
+             // actions.create({ field_id: 1, action_type: "sulama", amount: aiDecision.amount, executed_by: "system" })
+             // console.log("Fiziksel su pompalarına sinyal gönderiliyor...");
+        }
+    }
+}
+
+runSystemCycle();
