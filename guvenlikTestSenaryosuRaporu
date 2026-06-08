@@ -1,0 +1,111 @@
+# TERRA NOVA ATYS
+## Güvenlik Test Senaryosu Raporu
+
+**Hazırlayan:** Avşin Pelin Bilgiç  
+**Tarih:** 28 Nisan 2026
+
+---
+
+## 1. Kapsam ve Amaç
+
+Bu doküman, ATYS projesinin 5 ana bileşenini kapsayan güvenlik test senaryolarını içermektedir.
+
+| # | Bileşen | Açıklama | Teknoloji | Sce. |
+|---|---------|----------|-----------|------|
+| 1 | IoT Sensör Katmanı | Veri toplama birimleri | ESP32 / RPi | 6 |
+| 2 | Ağ İletişim Katmanı | Veri taşıma güvenliği | LoRaWAN | 5 |
+| 3 | Backend API Katmanı | Endpoint güvenliği | FastAPI/Flask | 8 |
+| 4 | Veritabanı Katmanı | Erişim güvenliği | PostgreSQL | 6 |
+| 5 | Kimlik & Yetki Katmanı | Kullanıcı yönetimi | JWT/RBAC | 7 |
+
+---
+
+## 2. IoT Sensör Katmanı Testleri
+
+| Test ID | Bileşen | Senaryo | Beklenen Sonuç | Öncelik |
+|---------|---------|---------|----------------|---------|
+| IOT-01 | ESP32 Firmware | Hardcoded şifre kontrolü | Sabit veri olmamalı | KRİTİK |
+| IOT-02 | Raspberry Pi SSH | Varsayılan giriş denemesi | Şifre değişmiş olmalı | KRİTİK |
+| IOT-03 | Sensör Verisi | Sahte veri enjeksiyonu | İmzasız veri reddedilmeli | YÜKSEK |
+| IOT-04 | OTA | Yetkisiz güncelleme | İmzalı olmalı | YÜKSEK |
+| IOT-05 | Edge Buffer | Offline veri erişimi | Şifreli saklanmalı | ORTA |
+| IOT-06 | Fiziksel | SD kart erişimi | Disk şifreli olmalı | ORTA |
+
+---
+
+## 3. Ağ İletişim Katmanı
+
+| Test ID | Bileşen | Senaryo | Beklenen Sonuç | Öncelik |
+|---------|---------|---------|----------------|---------|
+| NET-01 | LoRaWAN | Paket dinleme | AES-128 şifreli olmalı | KRİTİK |
+| NET-02 | TLS/SSL | MITM denemesi | Sertifika doğrulanmalı | KRİTİK |
+| NET-03 | API Trafiği | Trafik dinleme | HTTPS zorunlu | YÜKSEK |
+| NET-04 | DevEUI | Spoofing denemesi | Reddedilmeli | YÜKSEK |
+| NET-05 | AWS | Süresi dolmuş sertifika | Bağlantı reddedilmeli | ORTA |
+
+---
+
+## 4. Backend API Katmanı
+
+| Test ID | Bileşen | Senaryo | Beklenen Sonuç | Öncelik |
+|---------|---------|---------|----------------|---------|
+| API-01 | Kimlik | Token olmadan erişim | 401 dönmeli | KRİTİK |
+| API-02 | SQL Injection | Injection denemesi | Engellenmeli | KRİTİK |
+| API-03 | Rate Limiting | Brute force | Limit uygulanmalı | KRİTİK |
+| API-04 | Yetki | Admin erişimi | 403 dönmeli | YÜKSEK |
+| API-05 | Komut | Başka kullanıcıya komut | Engellenmeli | YÜKSEK |
+| API-06 | Acil | Yetkisiz çağrı | Engellenmeli | YÜKSEK |
+| API-07 | CORS | Cross-origin | Kısıtlı olmalı | ORTA |
+| API-08 | Hata | Hata mesajı | Detay verilmemeli | ORTA |
+
+---
+
+## 5. Veritabanı Katmanı
+
+| Test ID | Bileşen | Senaryo | Beklenen Sonuç | Öncelik |
+|---------|---------|---------|----------------|---------|
+| DB-01 | Şifre | Config kontrolü | .env içinde olmalı | KRİTİK |
+| DB-02 | Yetki | DROP yetkisi | Kısıtlı olmalı | YÜKSEK |
+| DB-03 | Hash | Şifre kontrolü | Hashlenmiş olmalı | KRİTİK |
+| DB-04 | Yedek | Backup kontrolü | Şifreli olmalı | ORTA |
+| DB-05 | InfluxDB | Yetkisiz erişim | Engellenmeli | YÜKSEK |
+| DB-06 | Veri | Hassas veri | Maskelenmeli | ORTA |
+
+---
+
+## 6. Kimlik ve Yetki Katmanı
+
+| Test ID | Bileşen | Senaryo | Beklenen Sonuç | Öncelik |
+|---------|---------|---------|----------------|---------|
+| AUTH-01 | JWT | Expired token | 401 dönmeli | KRİTİK |
+| AUTH-02 | JWT | İmza değiştirme | Reddedilmeli | KRİTİK |
+| AUTH-03 | JWT | Secret kontrolü | Güçlü olmalı | KRİTİK |
+| AUTH-04 | RBAC | Çiftçi erişimi | Sınırlı | YÜKSEK |
+| AUTH-05 | RBAC | Mühendis erişimi | Kısıtlı | YÜKSEK |
+| AUTH-06 | Brute Force | Şifre deneme | Kilitlenmeli | YÜKSEK |
+| AUTH-07 | Token Reuse | — | Geçersiz | ORTA |
+
+---
+
+## 7. Test Metodolojisi
+
+### 7.1 Araçlar
+
+Bandit, Safety, Postman, OWASP ZAP, SQLmap, Wireshark, jwt.io
+
+### 7.2 Test Durumları
+
+- **GEÇTİ**
+- **KALDI**
+- **AÇIK**
+
+### 7.3 Test Planı
+
+| Gün | Aktivite |
+|-----|----------|
+| Gün 1–2 | Statik analiz |
+| Gün 2–3 | API testleri |
+| Gün 3 | Auth testleri |
+| Gün 4 | Ağ ve DB |
+| Gün 5 | Giderme |
+| Gün 6 | Raporlama |
