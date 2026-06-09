@@ -6,8 +6,7 @@ import {
   Tooltip, 
   ResponsiveContainer,
   AreaChart,
-  Area,
-  Line
+  Area
 } from 'recharts';
 import { motion } from 'framer-motion';
 
@@ -39,17 +38,17 @@ const SensorChart = ({ data }) => {
     >
       <div className="flex justify-between items-center mb-6">
         <div>
-          <h2 className="text-lg font-bold text-apple-dark dark:text-white">Canlı Sensör Verileri</h2>
-          <p className="text-sm text-apple-dark/50 dark:text-white/50">Son 24 saatlik değişim analizi</p>
+          <h2 className="text-lg font-bold !text-[var(--text-primary)]">Canlı Sensör Verileri</h2>
+          <p className="text-sm opacity-50 !text-[var(--text-primary)]">Son 24 saatlik değişim analizi</p>
         </div>
         <div className="flex gap-4">
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full bg-emerald-500" />
-            <span className="text-xs font-bold text-apple-dark/60 dark:text-white/60">Nem (%)</span>
+            <span className="text-xs font-bold opacity-60 !text-[var(--text-primary)]">Nem (%)</span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full bg-blue-500" />
-            <span className="text-xs font-bold text-apple-dark/60 dark:text-white/60">Sıcaklık (°C)</span>
+            <span className="text-xs font-bold opacity-60 !text-[var(--text-primary)]">Sıcaklık (°C)</span>
           </div>
         </div>
       </div>
