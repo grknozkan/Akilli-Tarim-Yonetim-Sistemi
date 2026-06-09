@@ -51,6 +51,12 @@ $$ET_c = K_c \times ET_o$$
 Yönetim Paneli (Frontend): [akillitarimpanel.onrender.comBackend](https://akillitarimpanel.onrender.com)
 API Servisi: [api-w5sp.onrender.comAlternatif ](https://api-w5sp.onrender.com)
 ---
+---
+🌐 Proje Bağlantıları 
+
+Yönetim Paneli (Frontend): [akillitarimpanel.onrender.comBackend](https://akillitarimpanel.onrender.com)
+API Servisi: [api-w5sp.onrender.comAlternatif ](https://api-w5sp.onrender.com)
+---
 
 ## 👥 Geliştirici Ekip
 
