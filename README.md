@@ -69,5 +69,3 @@ Bu sistem, aşağıdaki yazılım mühendisi kadrosu tarafından tasarlanmış v
 >
 > sitenin ana hali şu repodadır https://github.com/umitcancinar/Ak-ll-_Tar-m_YS
 > bu repoda herkesin içeriği yazmaktadır bu nedenle karışıktır
-
-> 🚀 **Proje Yayında:** [Buraya Tıklayarak Ziyaret Edebilirsiniz](https://ak-ll-tar-m-ys-348w.vercel.app/)
