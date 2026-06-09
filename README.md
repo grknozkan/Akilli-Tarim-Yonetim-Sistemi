@@ -44,6 +44,7 @@ $$ET_c = K_c \times ET_o$$
 * 🛡️ **Proaktif Koruma:** Bitki hastalıklarının gözle görülmeden önce tespiti.
 * 📈 **Yüksek Verim:** Toprağın ve bitkinin potansiyelini en üst düzeye çıkaran hasat kalitesi.
 
+
 ---
 🌐 Proje Bağlantıları 
 
