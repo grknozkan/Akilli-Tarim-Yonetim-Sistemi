@@ -58,6 +58,13 @@ Yönetim Paneli (Frontend): [akillitarimpanel.onrender.comBackend](https://akill
 API Servisi: [api-w5sp.onrender.comAlternatif ](https://api-w5sp.onrender.com)
 ---
 
+---
+🌐 Proje Bağlantıları 
+
+Yönetim Paneli (Frontend): [akillitarimpanel.onrender.comBackend](https://akillitarimpanel.onrender.com)
+API Servisi: [api-w5sp.onrender.comAlternatif ](https://api-w5sp.onrender.com)
+---
+
 ## 👥 Geliştirici Ekip
 
 Bu sistem, aşağıdaki yazılım mühendisi kadrosu tarafından tasarlanmış ve hayata geçirilmiştir:
