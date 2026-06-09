@@ -46,6 +46,13 @@ $$ET_c = K_c \times ET_o$$
 
 ---
 
+---
+🌐 Proje Bağlantıları 
+
+Yönetim Paneli (Frontend): [akillitarimpanel.onrender.comBackend](https://akillitarimpanel.onrender.com)
+API Servisi: [api-w5sp.onrender.comAlternatif ](https://api-w5sp.onrender.com)
+---
+
 ## 👥 Geliştirici Ekip
 
 Bu sistem, aşağıdaki yazılım mühendisi kadrosu tarafından tasarlanmış ve hayata geçirilmiştir:
@@ -59,3 +66,6 @@ Bu sistem, aşağıdaki yazılım mühendisi kadrosu tarafından tasarlanmış v
 | 🧑‍💻 | **Neva YILDIZ** | Yazılım Mühendisi |
 
 > 🚀 **Proje Yayında:** [Buraya Tıklayarak Ziyaret Edebilirsiniz](https://ak-ll-tar-m-ys-348w.vercel.app/)
+>
+> sitenin ana hali şu repodadır https://github.com/umitcancinar/Ak-ll-_Tar-m_YS
+> bu repoda herkesin içeriği yazmaktadır bu nedenle karışıktır
